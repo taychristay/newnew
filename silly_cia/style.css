@@ -1,0 +1,31 @@
+h1{
+    color: green;
+}
+
+h1, h2 {
+    font: Georgia;
+    text-align: center;
+}
+
+p{
+    line-height: 25px;
+    font-size: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
+
+.foot{
+    text-transform: uppercase;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+img{
+    float: left;
+    margin: 5px;
+}
