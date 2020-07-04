@@ -57,7 +57,9 @@ if (1 <= 2 && 2 === 4){
 //Gold
 //1
 if (typeof "dog" === "string"){
-    console.log("its a string")
+    console.log(typeof "dog")
+} else {
+    console.log("not a string")
 }
 
 //2
